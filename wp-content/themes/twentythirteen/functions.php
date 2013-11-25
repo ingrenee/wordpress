@@ -579,3 +579,5 @@ function custom_page_menu($menu, $args) {
  return $menu;
 }
 add_filter( 'wp_page_menu', 'custom_page_menu' ,10,2 );
+
+/* Agregado por renee*/
